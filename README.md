@@ -55,7 +55,7 @@
 
 ### 🔗 Connect with me
 
-📩 Email: [your.email@example.com](mailto:caiohenriquesinger@gmail.com)  
+📩 Email: [caiohenriquesinger@.com](mailto:caiohenriquesinger@gmail.com)  
 
 ---
 
