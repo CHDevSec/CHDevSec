@@ -35,10 +35,7 @@
 
 ### 🔗 Connect with me
 
-📩 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)  
-📸 Instagram: [instagram.com/seu-instagram](https://www.instagram.com/seu-instagram/)  
-🐦 Twitter: [twitter.com/seu-twitter](https://twitter.com/seu-twitter)  
+📩 Email: [your.email@example.com](mailto:caiohenriquesinger@gmail.com)  
 
 ---
 
