@@ -34,6 +34,16 @@
 
 ---
 
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
+  
+---
+
 ### 📊 GitHub Stats & Activity
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  
@@ -45,10 +55,7 @@
 
 ### 🔗 Connect with me
 
-📩 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)  
-📸 Instagram: [instagram.com/seu-instagram](https://www.instagram.com/seu-instagram/)  
-🐦 Twitter: [twitter.com/seu-twitter](https://twitter.com/seu-twitter)  
+📩 Email: [your.email@example.com](mailto:caiohenriquesinger@gmail.com)  
 
 ---
 
