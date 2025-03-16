@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
 
-![Banner](https://user-images.githubusercontent.com/0000000/banner.png)  
+![Banner](https://64.media.tumblr.com/852286ae03acd6f380be9626c9515098/tumblr_nkixa7i0pp1qiouwio1_400.gif) 
 
 🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
 ⚡ Always learning & automating security processes  
