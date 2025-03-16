@@ -24,9 +24,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Programming Languages
 
 <div align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHDevSec&show_icons=true&theme=radical" />  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CHDevSec&theme=radical" />  
 </div>  
@@ -35,7 +47,10 @@
 
 ### 🔗 Connect with me
 
-📩 Email: [your.email@example.com](mailto:caiohenriquesinger@gmail.com)  
+📩 Email: [your.email@example.com](mailto:your.email@example.com)  
+💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)  
+📸 Instagram: [instagram.com/seu-instagram](https://www.instagram.com/seu-instagram/)  
+🐦 Twitter: [twitter.com/seu-twitter](https://twitter.com/seu-twitter)  
 
 ---
 
