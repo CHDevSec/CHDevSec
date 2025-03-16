@@ -1,8 +1,10 @@
-## 👋 Hello World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
+## 👋 Hello, World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
 
-🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
-⚡ Always learning & automating security processes  
-📚 Currently studying **Software Engineering** and improving my skills in **Cloud Security**  
+🔐 **Cybersecurity | DevSecOps | Cloud Security | Automation**  
+🚀 **Passionate about security, automation, and cloud-native technologies**  
+⚙️ **Expertise in DevSecOps, threat monitoring, and security hardening**  
+📚 **Graduated in Software Development & Networks | Currently studying Software Engineering**  
+⚡ **Always learning, scripting, and optimizing security processes**  
 
 ---
 
