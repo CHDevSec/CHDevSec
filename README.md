@@ -1,16 +1,9 @@
 ## 👋 Hello World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
-    ⚡ Always learning & automating security processes  
-    📚 Currently studying **Software Engineering** and improving my skills in **Cloud Security**  
-    🚀 Sharing my knowledge on **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)** & **[Instagram](https://www.instagram.com/seu-instagram/)**  
-  </div>
-  <div>
-    <img src="https://64.media.tumblr.com/852286ae03acd6f380be9626c9515098/tumblr_nkixa7i0pp1qiouwio1_400.gif" width="120" height="120" />  
-  </div>
-</div>
+🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
+⚡ Always learning & automating security processes  
+📚 Currently studying **Software Engineering** and improving my skills in **Cloud Security**  
+🚀 Sharing my knowledge on **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)** & **[Instagram](https://www.instagram.com/seu-instagram/)**  
 
 ---
 
