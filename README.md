@@ -3,7 +3,6 @@
 🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
 ⚡ Always learning & automating security processes  
 📚 Currently studying **Software Engineering** and improving my skills in **Cloud Security**  
-🚀 Sharing my knowledge on **[LinkedIn](https://www.linkedin.com/in/seu-perfil/)** & **[Instagram](https://www.instagram.com/seu-instagram/)**  
 
 ---
 
