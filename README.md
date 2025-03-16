@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
 
 <div align="right">
-  <img src="https://64.media.tumblr.com/852286ae03acd6f380be9626c9515098/tumblr_nkixa7i0pp1qiouwio1_400.gif" width="150" height="150" />  
+  <img src="https://64.media.tumblr.com/852286ae03acd6f380be9626c9515098/tumblr_nkixa7i0pp1qiouwio1_400.gif" width="120" height="120" />  
 </div>
 
 🔐 Passionate about **Cybersecurity, DevSecOps & Linux**  
@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CHDevSec&show_icons=true&theme=radical" />  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CHDevSec&theme=radical" />  
 </div>  
