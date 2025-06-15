@@ -1,10 +1,10 @@
-## 👋 Hello, World! I'm Caio Henrique, a Cybersecurity & DevSecOps Professional  
+## 👋 Hello, World! I'm Caio Henrique, a Cybersecurity Professional & Ethical Hacker
 
-🔐 **Cybersecurity | DevSecOps | Cloud Security | Automation**  
-🚀 **Passionate about security, automation, and cloud-native technologies**  
-⚙️ **Expertise in DevSecOps, threat monitoring, and security hardening**  
-📚 **Graduated in Software Development & Networks | Currently studying Software Engineering**  
-⚡ **Always learning, scripting, and optimizing security processes**  
+🔐 **Cybersecurity | DevSecOps | Cloud Security | Automation | Red Team | Bug Bounty**  
+⚙️ **Hands-on experience in Blue Team, DevSecOps, Threat Monitoring, and Security Hardening**  
+🎯 **Also working on Red Team with a focus on Bug Bounty, Recon, and Exploitation**  
+📚 **Graduated in Software Development and Networks | Currently studying Software Engineering**  
+💻 **Constantly focused on improving processes, building automations, and strengthening security environments**
 
 ---
 
