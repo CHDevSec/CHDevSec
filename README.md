@@ -53,12 +53,13 @@
 
 ---
 
-### 🚀 Recent Projects
-- 🛡 **SIEM & Security Monitoring**: Built an automated monitoring system with **Wazuh & Elastic Stack**
-- 🌐 **Infrastructure Security**: Implemented cloud security best practices with **AWS & Kubernetes**
-- 🔍 **Threat Hunting**: Developed custom threat detection rules for **SOC operations**  
+💡 Philosophy
 
-💻 Check out my repositories for more! 🚀  
+"The best defense is understanding the offense. The best offense respects the defense."
+
+🛡️ Defensive Mindset: Protecting organizations through proactive monitoring and response
+⚔️ Offensive Perspective: Understanding attack vectors to build stronger defenses
+🔧 Engineering Approach: Automating security to scale protection and detection
 
 ---
 
