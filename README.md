@@ -47,7 +47,7 @@
 
 ### 🔗 Connect with me
 
-📩 Email: [caiohenriquesinger@.com](mailto:caiohenriquesinger@gmail.com)  
+📩 Email: [caiohenriquesinger@gmail.com](mailto:caiohenriquesinger@gmail.com)  
 
 ---
 
