@@ -30,12 +30,6 @@
 
 ---
 
-<!-- Portfolio -->
-## Portfolio:
-- [CyberSecurity - Projects](https://chdevsec.github.io/Portfolio-projetc/)
-  
----
-
 📊 GitHub Stats
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CHDevSec&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
