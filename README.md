@@ -1,23 +1,33 @@
-<h1 align="center">👋 Welcome to my profile!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%24+whoami+%3A+Caio+Henrique;Cybersecurity+Professional+%26+Ethical+Hacker;DevSecOps+%7C+Red+Team+%7C+Blue+Team+%7C+Automation" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <b>Caio Henrique</b> | Cybersecurity Professional & Ethical Hacker<br>
-  <i>DevSecOps | Blue Team | Red Team | Automation | Cloud Security</i>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="hacker animation"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🛠️ My Tools
 
-- 🎓 Graduated in Software Development and Networks
-- 📚 Currently studying Software Engineering
-- 🛡️ Focused on Blue Team, DevSecOps, Threat Monitoring, Security Hardening
-- ⚔️ Red Team enthusiast (Bug Bounty, Recon, Exploitation)
-- 🤖 Passionate about automation and process improvement
+| Tool         | Description                                                      | Link                                                                 |
+|--------------|------------------------------------------------------------------|----------------------------------------------------------------------|
+| <b>ShadowPort</b> | Advanced Network Reconnaissance & Port Scanning Tool <br> <img src="https://img.shields.io/github/stars/CHDevSec/ShadowPort?style=social" /> | [🔗 ShadowPort](https://github.com/CHDevSec/ShadowPort)              |
+| ...          | ... (adicione outras ferramentas aqui)                           | ...                                                                  |
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 Graduated in Software Development and Networks
+- 📚 Currently studying Software Engineering
+- 🛡️ Blue Team, DevSecOps, Threat Monitoring, Security Hardening
+- ⚔️ Red Team enthusiast (Bug Bounty, Recon, Exploitation)
+- 🤖 Automation & process improvement
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -36,7 +46,7 @@
 
 ---
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
@@ -52,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CHDevSec&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
@@ -61,7 +71,7 @@
 
 ---
 
-### 🔗 Connect with me
+## 🔗 Connect with me
 
 <p align="center">
   <a href="mailto:caiohenriquesinger@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -71,13 +81,9 @@
 
 ---
 
-### 💡 Philosophy
+## 💡 Philosophy
 
 > "The best defense is understanding the offense. The best offense respects the defense."
-
-- 🛡️ Defensive Mindset: Protecting organizations through proactive monitoring and response
-- ⚔️ Offensive Perspective: Understanding attack vectors to build stronger defenses
-- 🔧 Engineering Approach: Automating security to scale protection and detection
 
 ---
 
