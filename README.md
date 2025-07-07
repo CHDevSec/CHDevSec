@@ -1,5 +1,8 @@
+# 👋 Welcome to my profile!
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%24+whoami+%3A+Caio+Henrique;Cybersecurity+Professional+%26+Ethical+Hacker;DevSecOps+%7C+Red+Team+%7C+Blue+Team+%7C+Automation" alt="Typing SVG" />
+  <b>Caio Henrique</b> | Cybersecurity Professional & Ethical Hacker<br>
+  <i>DevSecOps | Red Team | Blue Team | Automation | Cloud Security</i>
 </p>
 
 ---
@@ -8,8 +11,9 @@
 
 | Tool         | Description                                                      | Link                                                                 |
 |--------------|------------------------------------------------------------------|----------------------------------------------------------------------|
-| <b>ShadowPort</b> | Advanced Network Reconnaissance & Port Scanning Tool <br> <img src="https://img.shields.io/github/stars/CHDevSec/ShadowPort?style=social" /> | [🔗 ShadowPort](https://github.com/CHDevSec/ShadowPort)              |
-| ...          | ... (adicione outras ferramentas aqui)                           | ...                                                                  |
+| <b>ShadowPort</b>    | Advanced Network Reconnaissance & Port Scanning Tool <br> <img src="https://img.shields.io/github/stars/CHDevSec/ShadowPort?style=social" /> | [🔗 ShadowPort](https://github.com/CHDevSec/ShadowPort)              |
+| <b>DirBusterPro</b>  | Advanced Directory Bypass Tester <br> <img src="https://img.shields.io/github/stars/CHDevSec/DirBusterPro?style=social" /> | [🔗 DirBusterPro](https://github.com/CHDevSec/DirBusterPro)          |
+| <b>BreachHunter</b>  | Email & Password Breach Checker <br> <img src="https://img.shields.io/github/stars/CHDevSec/BreachHunter?style=social" /> | [🔗 BreachHunter](https://github.com/CHDevSec/BreachHunter)          |
 
 ---
 
@@ -54,6 +58,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30"/>
 </div>
 
 ---
