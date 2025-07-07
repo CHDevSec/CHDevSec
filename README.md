@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%24+whoami+%3A+Caio+Henrique;Cybersecurity+Professional+%26+Ethical+Hacker;DevSecOps+%7C+Red+Team+%7C+Blue+Team+%7C+Automation" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="hacker animation"/>
-</p>
-
 ---
 
 ## 🛠️ My Tools
