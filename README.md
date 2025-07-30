@@ -64,14 +64,6 @@
 
 ---
 
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="[https://www.instagram.com/seu-instagram](https://www.instagram.com/chdevsec/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
 ## 💡 Philosophy
 
 ```bash
