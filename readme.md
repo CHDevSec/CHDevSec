@@ -11,18 +11,7 @@
 ```
 
 <div align="center">
-  <p>
-    <img src="./icons/fc168.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
-    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Security Engineer | DevSecOps</span>
-  </p>
-  <p>
-    <img src="./icons/fc632.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
-    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Application Security | Cloud & Automation</span>
-  </p>
-  <p>
-    <img src="./icons/fc15.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
-    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Breaking things to make them stronger</span>
-  </p>
+  <img src="./header_animated.gif" alt="Typing Animation"/>
 </div>
 
 </div>
