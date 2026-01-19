@@ -10,7 +10,20 @@
  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Security+Engineer+%7C+DevSecOps;%F0%9F%9B%A1%EF%B8%8F+Application+Security+%7C+Cloud+%26+Automation;%F0%9F%92%80+Breaking+things+to+make+them+stronger)](https://git.io/typing-svg)
+<div align="center">
+  <p>
+    <img src="./icons/fc168.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
+    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Security Engineer | DevSecOps</span>
+  </p>
+  <p>
+    <img src="./icons/fc632.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
+    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Application Security | Cloud & Automation</span>
+  </p>
+  <p>
+    <img src="./icons/fc15.png" width="20" style="vertical-align: middle; margin-right: 10px;"/> 
+    <span style="color: #00FF41; font-family: 'Fira Code', monospace; font-size: 18px; font-weight: 600;">Breaking things to make them stronger</span>
+  </p>
+</div>
 
 </div>
 
