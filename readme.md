@@ -24,7 +24,7 @@
 [+] Name: Caio Henrique
 [+] Role: Security Engineer | DevSecOps
 [+] Focus: Application Security | Cloud & Automation
-[+] Experience: 6+ years protecting systems and building security into the development lifecycle
+[+] Experience: 7+ years protecting systems and building security into the development lifecycle
 [+] Mission: Automate security controls, reduce vulnerabilities at scale, and help engineering teams ship secure code faster
 ```
 
